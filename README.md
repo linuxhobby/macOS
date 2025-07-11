@@ -13,8 +13,11 @@ killall Dock
 >macOS系统下的尖刀神奇，对表产品是raycast  
 
 2、Applite 
->brew官方推荐的的图形化工具  
+>brew官方推荐的的图形化工具
+
 3、Adobe Acrobat  
+>PDF编辑神器
+
 4、AppCleaner  
 5、Cheatsheet  
 6、DaisyDisk  
