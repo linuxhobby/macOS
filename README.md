@@ -25,4 +25,34 @@ killall Dock
 14、The Unarchiver  
 15、Windows App  
 16、Telegram  
-17、
+17、x  
+18、WhatsApp  
+19、WeChat（微信）  
+20、企业微信  
+21、QQ  
+22、Google Drive  
+23、OneDrive  
+24、MEGAsync  
+25、Dropbox  
+26、Box Sync  
+27、阿里云盘  
+28、夸克  
+29、Tuta Mail  
+30、mail.com  
+31、ChatGPT  
+32、迅雷  
+33、IINA  
+34、HP Easy Scan+HP Utility  
+35、爱思助手  
+36、BitPay  
+37、同花顺  
+38、Xmind  
+39、Aegisub  
+40、芒果TV  
+41、爱奇艺  
+42、优酷  
+43、腾讯视频  
+44、腾讯会议  
+
+###  三、其他
+等待更新
