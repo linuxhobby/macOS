@@ -10,7 +10,7 @@ killall Dock
 
 ###  二、安装的应用
 1、Alfred  
->macOS系统下的尖刀神奇，对标产品是raycast  
+>macOS系统下的尖刀神器，对标产品是raycast  
 
 2、Applite 
 >brew官方推荐的的图形化工具
