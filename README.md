@@ -1,13 +1,13 @@
-macOS 初始设置和应用安装推荐
+### macOS 初始设置和应用安装推荐
 
-一、系统设置 
-1、调整每一列显示图标数量(*代表你要显示的列数) 
+### 一、系统设置 
+# 1、调整每一列显示图标数量(*代表你要显示的列数) 
 defaults write com.apple.dock springboard-rows -int 6
-2、调整每一行显示图标数量（*代表你要显示的行数） 
+# 2、调整每一行显示图标数量（*代表你要显示的行数） 
 defaults write com.apple.dock springboard-columns -int 9 
-3、设置生效 killall Dock
+# 3、设置生效 killall Dock
 
-二、安装的应用
+###  二、安装的应用
 1、Alfred 
 2、Applite 
 3、Adobe Acrobat 
