@@ -53,6 +53,9 @@ killall Dock
 42、优酷  
 43、腾讯视频  
 44、腾讯会议  
+45、UGREEN NAS  
+46、Office 365（Word、Excel、PowerPoint）  
+47、
 
 ###  三、其他
 等待更新
