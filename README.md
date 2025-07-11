@@ -13,7 +13,7 @@ killall Dock
 >macOS系统下的尖刀神器，对标产品是raycast  
 
 2、Applite 
->brew官方推荐的的图形化工具
+>brew官方推荐的图形化工具
 
 3、Adobe Acrobat  
 >PDF编辑神器
