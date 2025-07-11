@@ -10,7 +10,7 @@ killall Dock
 
 ###  二、安装的应用
 1、Alfred  
->macOS系统下的尖刀神奇，对表产品是raycast  
+>macOS系统下的尖刀神奇，对标产品是raycast  
 
 2、Applite 
 >brew官方推荐的的图形化工具
@@ -19,7 +19,11 @@ killall Dock
 >PDF编辑神器
 
 4、AppCleaner  
+>卸载APP应用时同时删除关联文件
+
 5、Cheatsheet  
+>按住command ⌘ 键可显示当前应用的快捷键  
+
 6、DaisyDisk  
 7、iTerm  
 8、Keka  
