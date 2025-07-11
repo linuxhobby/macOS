@@ -10,6 +10,8 @@ killall Dock
 
 ###  二、安装的应用
 1、Alfred  
+macOS系统下的尖刀神奇，对表产品是raycast  
+
 2、Applite  
 3、Adobe Acrobat  
 4、AppCleaner  
