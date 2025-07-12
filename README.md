@@ -25,12 +25,26 @@ killall Dock
 >按住command ⌘ 键可显示当前应用的快捷键  
 
 6、DaisyDisk  
+>通过交互式的图形显示直观地查看磁盘的使用情况，发掘占用空间的垃圾文件，只要简单的拖拽操作就可以直接删除它们  
+
 7、iTerm  
+>替代系统自带的终端，其实Tabby也挺好用的  
+
 8、Keka  
+>解压缩工具  
+
 9、Parallels Desktop  
+>这等于是Apple御用的macOS系统虚拟机
+
 10、Rectangle  
+>快捷键工具
+
 11、Shazam  
+>听音乐识别歌曲
+
 12、Shadowrockert  
+>这个是iPhone下的代理软件，m系列可用
+
 13、v2rayN  
 14、The Unarchiver  
 15、Windows App  
