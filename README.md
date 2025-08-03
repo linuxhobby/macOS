@@ -145,7 +145,7 @@ killall Dock
 >这是绿联NAS的客户端工具
 
 46、Office 365（Word、Excel、PowerPoint）  
->这个还需要解释吗？
+>微软Office的标准三件套
 
 ###  三、其他
 等待更新
